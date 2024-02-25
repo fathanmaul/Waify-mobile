@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Waifu Election</string>
+
+    <string name="main_title_bar">2024 Waifu Election Results by update.anime</string>
+    <string name="detail_title_bar">Detail Waifu</string>
+    <string name="about_title_bar">About Me</string>
+    <string name="about_picture">https://cdn.discordapp.com/attachments/891712323717333008/1211029784608505916/WhatsApp_Image_2024\-02\-25_at_2.19.22_AM.jpeg?ex=65ecb660&amp;is=65da4160&amp;hm=2c2a5985aef9adf0083e241915f1bb98f23808b041914751405e17a3098cf384&amp;</string>
+    <string name="about_name">Fathan Maulana Rifqi Hartono</string>
+    <string name="about_email">fthnmrh012@gmail.com</string>
+    <string name="about_address">Bondowoso, East Java</string>
+
+    <string-array name="data_name">
+        <item>Vestia Zeta</item>
+        <item>Violet</item>
+        <item>Nahida</item>
+        <item>Emu Otori</item>
+        <item>Ryo Yamada</item>
+        <item>Megumi Kato</item>
+        <item>Frieren</item>
+        <item>Yor Forger</item>
+        <item>Fubuki</item>
+        <item>Sakurajima Mai</item>
+    </string-array>
+
+    <string-array name="data_anime">
+        <item>Hololive Indonesia</item>
+        <item>Violet Evergarden</item>
+        <item>Genshin Impact</item>
+        <item>Project SEKAI COLORFUL STAGE!</item>
+        <item>Bocchi the rock!</item>
+        <item>Saekano: How To Raise A Boring Girlfriend</item>
+        <item>Frieren</item>
+        <item>SPY x Family</item>
+        <item>One Punch Man</item>
+        <item>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</item>
+    </string-array>
+
+    <string-array name="data_vote">
+        <item>2344</item>
+        <item>1811</item>
+        <item>1425</item>
+        <item>1228</item>
+        <item>1201</item>
+        <item>1151</item>
+        <item>782</item>
+        <item>756</item>
+        <item>746</item>
+        <item>688</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Vestia Zeta is a female Indonesian VTuber associated with Hololive, debuting as part of its Indonesian (ID) branch third generation of VTubers alongside Kaela Kovalskia and Kobo Kanaeru. She is the mysterious 7th recruit of The Secret Archive Unit that has a full license to collect virtual data. Despite being a promising rookie, she turns clumsy when things don\'t go according to plan. With an adorable and curious personality, she embraces her favorite animal, cats, and shows fearlessness in her streams, particularly in horror games. However, she dislikes being called a cat and is easily disturbed. Vestia Zeta is known for her mistakes and clumsy moments, but she also has a soft spot and easily gets emotional. She enjoys flirting, teasing, and complimenting other girls. In her streams, she engages in zatsudan (chat streams), art streams, meme reviews, late-night comfy talks, ASMR, karaoke, and various gaming genres. She speaks Indonesian, English, Japanese, and Korean and has a strong following on social media platforms. Vestia Zeta is an exciting addition to the virtual influencer world and continues to captivate her fans with her unique personality and content.
+        </item>
+        <item>Violet is described as a very beautiful young girl, but with some childish facial features given by her young age, which give her a doll-like appearance along with her almost impassive demeanor. She has a slim build of medium height and fair skin; her face is a little narrow and elongated, with large blue eyes and thick dark lashes. The blonde hair ends on her hips, but in front of her face she has a fringe that ends in the middle of the eyebrows divided into three strands: one falls on her face and the remaining two blend into two longer strands that end on the shoulders. Her hair is described as "velvet" by Amy as she styled it for her. Often Violet ties them either in a low ponytail tied with a black ribbon, or, when she works as an Auto Memory Doll, in two French braids which she subsequently wraps on themselves and she ties with two red ribbons. Because she lost her arms during the last battle of the war, she was given adamantine silver prostheses, described by herself as "clumsy, but sturdy".</item>
+        <item>
+            When the Traveler and Paimon first meet Nahida in the Sabzeruz Festival samsara, she was an elusive and secretive individual. She voluntarily left ruling the city to the sages, though like in cases with the samsara, she would intervene as best she could if they stepped out of line. She also suffered from very low self-esteem as a result of the way the sages treated her. However after the downfall of the sages and the cleansing of Irminsul, many of these traits have minimized or vanished. She now openly wanders around the city, when she has time, and interacts with her people and has an overall far more genuinely cheerful view of herself. Despite her previously difficult circumstances, when she spoke to people she rarely revealed her sadness. She almost always maintains a gentle and kind demeanour when she speaks to others, and treats everyone as equals. However, she admits that her social skills and understanding of human interaction needs work, and she\'s prone to slightly eccentric speech and behaviour as a result. She also professes a fondness for analogies and frequently makes use of them when attempting to explain things to others. Like many in Sumeru, she believes in helping people come to answers on their own, particularly regarding heavier truths, rather than providing all the answers. As a result she\'s also prone to peppering her speech with a mixture of analogies and subtle clues about things she wants others to learn.
+        </item>
+        <item>
+            Emu is the daughter of the owner of Phoenix Wonderland, and grew up watching shows in the park. After seeing Tsukasa fail his audition, she hires him, along with Nene and Rui, to return the dilapidated Wonder Stage to its former glory. Emu wants to perform on the small Wonder Stage and keep it alive, as it was her late grandfather\'s favorite stage. She was inspired to make others smile by her grandfather, whom she greatly looks up to, though he passed two years before the main story. As a first year, Emu was classmates with Honami in Class 1-B. As a second year, she is classmates with Saki and Shiho in class 2-B. She was part of the Sports Festival Executive Committee with Saki and Haruka.
+        </item>
+        <item>
+            A girl with a unisex appearance and a mysterious atmosphere, who is quiet and expressionless. She often attracts women, notably Ikuyo Kita, who has a crush on her at first sight. However, her inner life, words and behaviour are those of an oddball, and she is pleased to be told so. She often doesn\'t understand the situation, and is always being told off by Nijika. Nevertheless, Ryo has also a sensitive side: when she performed a very minor song at a school festival in junior high school, the audience was completely unexcited beyond her imagination, and she still dreams about it from time to time.
+        </item>
+
+        <item>Megumi was a beautiful girl with shoulder-length hair. Her eyes and hair were brown. Tomoya thought she was the most beautiful girl he had ever met. She had perfect body proportions. She was often shown wearing her school uniform and outside of school she wore casual clothes that could only be described as \'ordinary\'. When she met Tomoya during summer vacation, she was wearing a summer dress with a white beret. Since the start of the series she started to grow her hair long. However, she later cut it again, as a declaration of her determination.
+        </item>
+
+        <item>
+            Frieren has an easy-going personality; however, her aloof attitude makes her a mystery to her peers, with Heiter commenting that they as Humans cannot perceive an Elf\'s feelings. As an Elf that has lived for at least a millennium, she has a poor sense of time that manifests in a bad habit of being unable to get up in the morning, along with a deeper inability to comprehend how time passes for Humans. This is, in part, a reason for Frieren\'s aloof attitude, since she sees large lengths of time as too brief for her to form meaningful connections. For instance, she thought of a ten-year journey with her comrades as short and believed she knew nothing about the Hero Himmel even up until his passing. However, following Himmel\'s funeral, she made the decision to get to know Humans better.
+        </item>
+
+        <item>
+            Yor Forger is a beautiful young woman with light skin, black hair, and reddish eyes. Her hair has a headband and is split into two-part ways which crosses over her head. She has a pair of dangling earrings. She usually wears a red sweater that exposes her shoulders and back along with a red skirt. Her lower body outfit consists of black leggings and a pair of brown ankle boots. As the Thorn Princess, Yor dons a black dress that has a red rose pattern underneath along with a pair of fingerless gloves and black thigh boots. Her gold-colored headband contains a golden rose and two long horns on each side.
+        </item>
+
+        <item>
+            Fubuki is a young woman with chin-length dark-green hair that has a fringe styled into a bob, light green eyes, a curvy body type and soft facial features. She wears her long white fur coat draped over her form-fitting dark green dress, wearing thigh-high black boots and occasionally wears several necklaces. Underneath her dress, she wears a black lingerie bra and a matching thong. She is sometimes shown wearing dark tights and black pumps instead of her usual thigh high boots. Throughout the series, she is seen changing outfits.
+        </item>
+
+        <item>
+            Mai is an attractive individual—described as an inside-out beauty by Kaede—with waist-length black hair that has bangs hanging on the left side with a bunny-shaped barrette in the back, blue-purplish eyes and a slim and fit figure. She\'s fairly tall for a Japanese girl, standing at a height of 165 cm. In her bunny costume, she wears bright black high heels and wraps her long, slender legs in translucent black tights. Similar to a black leotard, the outfit highlighted the lines of her body, while the chest made a firm, modest valley. White cuffs accented her wrists and her neck was adorned by a white smart collar with a black bowtie. On the waist of the leotard, a white bunny tail is on her waist. Mai wears the bunny costume only twice throughout the series; she maintains the rabbit-themed motif by continuing to wear the aforementioned bunny-shaped barrette, while her phone is covered by a personalized phone case shaped like bunny ears.
+        </item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://i.pinimg.com/564x/eb/85/8c/eb858ca866aa1788e1a1efc4c98f4f8e.jpg</item>
+        <item>https://i.pinimg.com/564x/fb/37/57/fb3757268dbc5a80b90d20dc282dd8bd.jpg</item>
+        <item>https://i.pinimg.com/564x/4f/c2/58/4fc25859f427062c1d7cbc234212b2a0.jpg</item>
+        <item>https://i.pinimg.com/564x/a0/99/3e/a0993ee4239c1d2d152345a9d46d2e1e.jpg</item>
+        <item>https://i.pinimg.com/564x/62/b6/21/62b6212b4233a219852e80b13bda7944.jpg</item>
+        <item>https://i.pinimg.com/564x/e9/4d/28/e94d28c6ba19d497b44976dc5d8d1883.jpg</item>
+        <item>https://i.pinimg.com/564x/b2/f7/9e/b2f79ec74700756c3c4e6682ea4ef2de.jpg</item>
+        <item>https://i.pinimg.com/564x/60/f3/9f/60f39f01c01222edad1c3aefbb27b41a.jpg</item>
+        <item>https://i.pinimg.com/564x/1d/af/c4/1dafc415e606072d0d5000d0ba7c7f1b.jpg</item>
+        <item>https://i.pinimg.com/736x/3d/60/9e/3d609eac15158ba440d01fea540f3fa1.jpg</item>
+    </string-array>
+
+</resources>
